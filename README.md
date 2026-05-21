@@ -12,4 +12,5 @@ Welcome to my Java learning repository! This project documents my 50-day intensi
 
 ---
 
-**Day 01:** JVM, JDK, JRE architecture; Variables & Data Types;Storage of negative numbers & Floating-point numbers
+**Day 01:** JVM, JDK, JRE architecture; Variables & Data Types;Storage of negative numbers & Floating-point numbers.
+**Day 02:**	Type conversion & Type promotion; Automatic vs. Manual Type Casting; Java Operators (Arithmetic, Unary, and Assignment).
