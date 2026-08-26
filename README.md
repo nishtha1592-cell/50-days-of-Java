@@ -28,10 +28,10 @@ Welcome to my Java learning repository! This project documents my 50-day intensi
 **Day 14:**	Immutable Classes in Java: Designing custom immutable objects from scratch step-by-step.  
 **Day 15:**	The Parent of all classes: Deep dive into the java.lang.Object class and its foundational methods (equals(), hashCode(), toString()).  	
 **Day 16:**	Java Enums: Type-safe enumerations, custom fields, methods, and enum constants.  
-**Day 17:** Java Interfaces deep dive: Multiple inheritance workarounds, default methods, and static methods.  
-**Day 18:**	Java Strings Part 1: String Immutability, Memory footprints, and the String Constant Pool internal workings.  	
-**Day 19:**	Java Strings Part 2: Essential String methods; StringBuilder vs. StringBuffer (Thread safety vs. Performance evaluation).  	
-**Day 20:**	Generics in Java: Type-safety constraints, Generic classes, and Generic methods.  
+**Day 17:** Java Interfaces deep dive: Multiple inheritance workarounds, default methods, and static methods.    
+**Day 18:**	Java Strings Part 1: String Immutability, Memory footprints, and the String Constant Pool internal workings.    	
+**Day 19:**	Java Strings Part 2: Essential String methods; StringBuilder vs. StringBuffer (Thread safety vs. Performance evaluation).    	
+**Day 20:**	Generics in Java: Type-safety constraints, Generic classes, and Generic methods.    
 
 
 
